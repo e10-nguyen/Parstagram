@@ -23,7 +23,7 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 ![Parstagram2](https://user-images.githubusercontent.com/72825083/118107121-3a9f1280-b393-11eb-9582-31b517e679ba.gif)
-
+![Parstagram2 1](https://user-images.githubusercontent.com/72825083/118352348-d8bae600-b515-11eb-876d-81c63e5bf1eb.gif)
 
 # Parstagram - Part I
 
